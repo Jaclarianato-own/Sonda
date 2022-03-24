@@ -1,0 +1,16 @@
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.exe
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.deps.json
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.runtimeconfig.json
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.dll
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\ref\Sonda.dll
+C:\Users\jhona\source\repos\Sonda\bin\Debug\net5.0\Sonda.pdb
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.AssemblyInfo.cs
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.dll
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\ref\Sonda.dll
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.pdb
+C:\Users\jhona\source\repos\Sonda\obj\Debug\net5.0\Sonda.genruntimeconfig.cache
